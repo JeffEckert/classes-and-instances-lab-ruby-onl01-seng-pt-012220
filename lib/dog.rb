@@ -1,2 +1,3 @@
-def Dog 
+def Dog
+  Dog.new
 end
